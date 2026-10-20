@@ -28,12 +28,12 @@ Foram elaborados e executados quatro casos de teste:
 
 - SauceDemo - aplicação web de demonstração.
 - Microsoft Excel - documentação dos casos de teste e resultados.
-- Microsoft Word - descrição do projeto, resumo de execução e relatório de ocorrência.
+- Microsoft Word e PDF - documentação e relatórios
+- GitHub - organização e publicação do portfólio.
 
 ## Evidências e documentação
 
 O projeto inclui casos de teste, resumo de execução, descrição do projeto e evidências de teste.
-
 Foi documentado também um comportamento observado na conta de demonstração `problem_user`, que apresenta comportamentos problemáticos intencionais. Esse registro faz parte do exercício de estudo e não representa um defeito confirmado em um sistema de produção.
 
 ## Aprendizados
